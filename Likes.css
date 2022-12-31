@@ -1,0 +1,25 @@
+.firstContainer{
+    background-color: rgb(209, 247, 215);
+    border: 2px solid darkgreen;
+    border-radius: 20px;
+    margin: auto;bottom: 10px;
+    height: 60%;
+    width: 30%;
+    padding: 20px;
+    align-content: center;
+    /* float: left; */
+}
+.secondContainer{
+    background-color: white;
+    border-radius: 15px;
+    height: 250px;
+    width: 160px;
+    padding: 10px;
+    margin: 30px;
+    /* float: left; */
+    
+}
+#Listspace{
+    margin-bottom: 5px;
+
+}
